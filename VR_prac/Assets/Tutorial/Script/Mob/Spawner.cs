@@ -14,7 +14,7 @@ public class Spawner : MonoBehaviour
 
     private void Start()
     {
-        if (playOnstart = true)
+        if (playOnstart == true)
             Play();
     }
 
